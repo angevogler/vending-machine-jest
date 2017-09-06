@@ -1,0 +1,28 @@
+{
+  "name": "vending-machine-jest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/angevogler/vending-machine-jest.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/angevogler/vending-machine-jest/issues"
+  },
+  "homepage": "https://github.com/angevogler/vending-machine-jest#readme",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.4",
+    "globally": "0.0.0",
+    "jest": "^21.0.1",
+    "pg": "^7.3.0",
+    "sequelize": "^4.8.0"
+  }
+}
